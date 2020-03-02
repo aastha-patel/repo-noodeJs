@@ -1,0 +1,27 @@
+{
+  "name": "repo-noodeJs",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^12.16.1"
+  },
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aastha-patel/repo-noodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aastha-patel/repo-noodeJs/issues"
+  },
+  "homepage": "https://github.com/aastha-patel/repo-noodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
